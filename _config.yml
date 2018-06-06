@@ -9,12 +9,12 @@ title: "Photography by Athul"
 subtitle: "See the world through my eyes!"
 author: "Athul Raj"
 header:
- title: "Photography"
- subtitle: "by Athul"
+  title: "Photography"
+  subtitle: "by Athul"
 footer:
- name: "Hey there, my name is Athul"
- bio: "I am a developer from India."
- github: "Forked from <a href=\"https://github.com/athuljayaraj/photography\"></a> ;)"
+  name: "Hey there, my name is Athul"
+  bio: "I am a developer from India."
+  github: "Forked from <a href=\"https://github.com/athuljayaraj/photography\"></a> ;)"
 web_design: "AR"
 social_urls:
   facebook: "https://www.facebook.com/athul.photography"
