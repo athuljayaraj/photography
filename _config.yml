@@ -23,4 +23,4 @@ social_urls:
   # dribbble: "https://dribbble.com/ramswaroop"
 #  linkedin: "https://in.linkedin.com/in/athulraj"
 #  github: "https://www.github.com/athuljayaraj"
-  whatsapp: "<a href=\"intent://send/+919947846480#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end\">Open WhatsApp chat window</a>"
+  whatsapp: "https://api.whatsapp.com/send?phone=919947846480&text=Hi+Athul%2C+I+wanted+to+know+more+about+your+interest+in+photography"
