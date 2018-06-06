@@ -10,11 +10,11 @@ subtitle: "See the world through my eyes!"
 author: "Athul Raj"
 header:
  title: "Photography"
- subtitle: "by Ram Patra"
+ subtitle: "by Athul"
 footer:
  name: "Hey there, my name is Athul"
  bio: "I am a developer from India."
- #github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
+ github: "Forked from <a href=\"https://github.com/ramswaroop/photography\"></a> ;)"
 web_design: "AR"
 social_urls:
   facebook: "https://www.facebook.com/athul.photography"
